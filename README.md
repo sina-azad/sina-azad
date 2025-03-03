@@ -24,7 +24,7 @@ I am Sina, a medical doctor and researcher with a profound passion for advancing
 When not in the lab or classroom, I enjoy travelling, jogging, swimming, biking, and exploring new cuisines through cooking.
 
 ### :computer: Let's connect!
-To know more about me, please visit my [personal website](https://sina-azad.github.io/).
+To know more about me, please visit my [personal website](https://sinaazad.com/).
 
 Also, you can reach out to me in case of any questions and for communications [via email](mailto:sina.azad.u@gmail.com) :envelope:.
 
