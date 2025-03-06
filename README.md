@@ -1,5 +1,5 @@
 ### HI THERE!
-I am Sina, a medical doctor and researcher with a passion for advancing knowledge in clinical epidemiology, cancer research, and surgical sciences. Currently, I am a postdoctoral research associate at Washington University in St. Louis. <br>
+I am Sina, a postdoc researcher specializing in cancer epidemiology, prevention, early detection, and surgery. Currently, I am a Postdoctoral Research Associate at Washington University in St. Louis. <br>
 
 Please read more about me on my [Personal Website](https://sinaazad.com/).
 
