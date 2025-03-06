@@ -3,7 +3,7 @@
 ## :loudspeaker:	Welcome to my GitHub!
 
 ### Hi there! :sunglasses:
-I am Sina, a medical doctor and researcher with a profound passion for advancing knowledge in clinical epidemiology, cancer research, and surgical sciences. With years of diverse experience, my journey has been defined by academic distinction, innovative research, and impactful contributions to improve public health and patient outcomes.
+I am Sina, a medical doctor and researcher with a passion for advancing knowledge in clinical epidemiology, cancer research, and surgical sciences. Currently, I am a postdoctoral research associate at Washington University in St. Louis.
 
 ###  :books: Education
 * **Master of Public Health (MPH)** | Iran University of Medical Sciences | 2023 <br>
@@ -19,9 +19,6 @@ I am Sina, a medical doctor and researcher with a profound passion for advancing
 #### Previous
 * **Research Data Analyst** | Leeds Institute of Rheumatic and Musculoskeletal Medicine, University of Leeds
 * **Research Fellow** | Non-Communicable Diseases Research Center, Tehran University of Medical Sciences
-
-### :camping: Beyond Work
-When not in the lab or classroom, I enjoy travelling, jogging, swimming, biking, and exploring new cuisines through cooking.
 
 ### :computer: Let's connect!
 To know more about me, please visit my [personal website](https://sinaazad.com/).
